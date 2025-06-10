@@ -1,0 +1,6 @@
+- 📊 **Linear Regression** — A basic regression model using TensorFlow.
+- 🧱 **Feedforward Neural Network** — Classification on the MNIST dataset using Keras.
+- 🌀 **Convolutional Neural Network (CNN)** — Image classification with CIFAR-10.
+- 🔊 **Recurrent Neural Network (RNN)** — Sentiment analysis using IMDB dataset.
+- 🧠 **Transfer Learning** — Image classification using pretrained models like VGG16.
+- 🍃 **Custom Dataset Classification** — Trained a model on a small dataset using augmentation.
